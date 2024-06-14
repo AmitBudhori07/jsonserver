@@ -1,31 +1,40 @@
 {
   "data":[
-  {
-    "userId": 1,
-    "id": 1,
-    "title": "delectus aut autem",
-    "completed": false,
-    "category": "work"
-  },
-  {
-    "userId": 1,
-    "id": 2,
-    "title": "quis ut nam facilis et officia qui",
-    "completed": false,
-    "category": "work"
-  },
-  {
-    "userId": 1,
-    "id": 3,
-    "title": "fugiat veniam minus",
-    "completed": false,
-    "category": "personal"
-  },
-  {
-    "userId": 1,
-    "id": 4,
-    "title": "et porro tempora",
-    "completed": true,
-    "category": "errands"
-  }]
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "delectus aut autem",
+      "completed": false,
+      "category": "work",
+      "priority": 1,
+      "dueDate": "06/18/2024"
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "quis ut nam facilis et officia qui",
+      "completed": false,
+      "category": "work",
+      "priority": 2,
+      "dueDate": "06/19/2024"
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "title": "fugiat veniam minus",
+      "completed": false,
+      "category": "personal",
+      "priority": 3,
+      "dueDate": "06/20/2024"
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "title": "et porro tempora",
+      "completed": true,
+      "category": "errands",
+      "priority": 4,
+      "dueDate": "06/21/2024"
+    }
+  ]
 }
